@@ -7,7 +7,7 @@ by Maximilian Kasy and Alexander Teytelboym
 This archive provides all code needed to replicate the calibrated simulations in "Matching with semi-bandits."
 
 ## Code-files
-
+To run the full replication package, run 00_master.R, which runs each of the scripts described below.   
 
 ### Generic
 
